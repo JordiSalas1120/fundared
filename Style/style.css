@@ -131,7 +131,7 @@ main{
     background-color: var(--gris);
     border-radius: 15px 2px 15px 2px;
     box-shadow: -8px 14px 17px -8px rgba(0,0,0,0.34), 0px 0px 75px -30px rgba(0,0,0,0.34) inset;
-    color: #fff;
+    color: var(--grisOscuto);
     font-family: 'Lato', sans-serif;
     font-weight: bold;
 }
